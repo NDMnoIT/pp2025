@@ -2,5 +2,5 @@
 
 - Your student ID: **2410606**
 - Your name: **Nguyen Duc Minh**
-- Your class: **ICT G3**
+- Your class: **ICT1**
 
