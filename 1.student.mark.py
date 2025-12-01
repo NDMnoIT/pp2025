@@ -1,6 +1,6 @@
-students = {} # {id: {'name': name, 'DoB': dob}}
-courses = {}  # {id: name}
-marks = {}    # {course_id: {student_id: mark}}
+students = {} 
+courses = {} 
+marks = {} 
 
 def input_num_students():
     """Input and return the number of students."""
@@ -50,7 +50,7 @@ def main():
             n = input_num_students()
             if n > 0:
                 input_student_info(n)
-        # ... (Add logic for other choices)
+   
         elif choice == '0':
             print("Exiting program.")
             break
